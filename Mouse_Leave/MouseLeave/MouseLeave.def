@@ -1,0 +1,8 @@
+;Commento
+LIBRARY MouseLeave.dll
+
+DESCRIPTION "Description"
+
+EXPORTS
+		MouseLeave_AddWindow
+		MouseLeave_Clear
